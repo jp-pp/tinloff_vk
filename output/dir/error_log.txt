@@ -1,0 +1,235 @@
+2020-08-29|12:44:34.940498|must have exactly one of create/read/write/append mode|
+2020-08-29|12:44:35.710449|must have exactly one of create/read/write/append mode|
+2020-08-29|12:44:36.728274|must have exactly one of create/read/write/append mode|
+2020-08-29|12:44:37.516123|must have exactly one of create/read/write/append mode|
+2020-08-29|12:47:24.451894|list index out of range|
+2020-08-29|12:54:37.425038|not writable|
+2020-08-29|12:54:38.158363|not writable|
+2020-08-29|12:54:39.214540|not writable|
+2020-08-29|12:54:40.061055|not writable|
+2020-08-29|13:02:41.977285|not writable|
+2020-08-29|13:02:43.209817|not writable|
+2020-08-29|13:02:44.652930|not writable|
+2020-08-29|13:02:46.042963|not writable|
+2020-08-29|13:03:31.477590|Must have exactly one of create/read/write/append mode and at most one plus|
+2020-08-29|13:03:32.340678|Must have exactly one of create/read/write/append mode and at most one plus|
+2020-08-29|13:03:33.815565|Must have exactly one of create/read/write/append mode and at most one plus|
+2020-08-29|13:03:35.089366|Must have exactly one of create/read/write/append mode and at most one plus|
+2020-08-29|13:37:00.027160|must have exactly one of create/read/write/append mode|
+2020-08-29|13:37:01.197086|must have exactly one of create/read/write/append mode|
+2020-08-29|13:37:02.704328|must have exactly one of create/read/write/append mode|
+2020-08-29|13:37:04.229864|must have exactly one of create/read/write/append mode|
+2020-08-29|13:44:43.134466|not writable|
+2020-08-29|13:44:47.667027|not writable|
+2020-08-29|13:44:51.338073|not writable|
+2020-08-29|13:44:56.015028|not writable|
+2020-08-29|14:53:16.471650|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:53:17.411137|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:53:19.044928|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:53:20.192870|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:56:44.308749|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:56:45.402174|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:56:47.047551|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:56:48.406319|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:56:50.834058|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:56:52.019125|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:56:53.449335|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:56:54.692480|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:57:03.973223|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:57:05.086196|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:57:06.648120|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:57:07.923392|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:57:09.791505|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:57:11.054426|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:57:12.496252|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:57:13.663498|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:57:23.552708|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:57:24.720626|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:57:26.339403|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:57:27.697767|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:57:29.539629|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:57:30.751486|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:57:32.318885|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:57:33.713588|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:58:03.663566|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:58:04.564868|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:58:05.785033|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:58:06.921235|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:58:08.397384|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:58:09.296310|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:58:14.765318|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:58:15.903218|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:58:34.285461|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:58:35.244725|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:58:36.341686|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:58:37.422855|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:58:38.919169|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:58:39.758603|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:58:40.841710|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:58:41.763125|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:58:47.323381|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:58:48.086640|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:58:49.026691|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:58:49.872431|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:58:51.135049|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:58:51.898009|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:58:52.848548|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|14:58:53.716765|__check_subs() missing 1 required positional argument: 'check_arr'|
+2020-08-29|15:02:04.452840|can only concatenate str (not "dict") to str|
+2020-08-29|15:02:05.523192|can only concatenate str (not "dict") to str|
+2020-08-29|15:02:06.918793|can only concatenate str (not "dict") to str|
+2020-08-29|15:02:08.273170|can only concatenate str (not "dict") to str|
+2020-08-29|15:02:10.326790|can't adapt type 'dict'|
+2020-08-29|15:02:11.593489|can't adapt type 'dict'|
+2020-08-29|15:02:13.194812|can't adapt type 'dict'|
+2020-08-29|15:02:14.582335|can't adapt type 'dict'|
+2020-08-29|15:06:37.463829|can only concatenate str (not "dict") to str|
+2020-08-29|15:06:38.651721|can only concatenate str (not "dict") to str|
+2020-08-29|15:06:40.144101|can only concatenate str (not "dict") to str|
+2020-08-29|15:10:53.817693|can only concatenate str (not "dict") to str|
+2020-08-29|15:10:54.350534|can only concatenate str (not "dict") to str|
+2020-08-29|15:10:55.097513|can only concatenate str (not "dict") to str|
+2020-08-29|15:10:55.756748|can only concatenate str (not "dict") to str|
+2020-08-29|15:10:56.728532|can't adapt type 'dict'|
+2020-08-29|15:10:57.381294|can't adapt type 'dict'|
+2020-08-29|15:10:58.114383|can't adapt type 'dict'|
+2020-08-29|15:10:58.835776|can't adapt type 'dict'|
+2020-08-29|15:13:00.992410|can't adapt type 'dict'|
+2020-08-29|15:13:02.092468|can't adapt type 'dict'|
+2020-08-29|15:13:03.449508|can't adapt type 'dict'|
+2020-08-29|15:13:04.685926|can't adapt type 'dict'|
+2020-08-29|15:22:50.800262|ОШИБКА:  ошибка синтаксиса (примерное положение: ".")
+LINE 1: ...onse_duration, response_text) values (date.today().isoformat...
+                                                             ^
+|
+2020-08-29|15:22:51.995065|ОШИБКА:  ошибка синтаксиса (примерное положение: ".")
+LINE 1: ...onse_duration, response_text) values (date.today().isoformat...
+                                                             ^
+|
+2020-08-29|18:20:32.317453|<_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "DNS resolution failed for service: stt.tinkoff.ru:443"
+	debug_error_string = "{"created":"@1598714432.317000000","description":"Resolver transient failure","file":"src/core/ext/filters/client_channel/resolving_lb_policy.cc","file_line":214,"referenced_errors":[{"created":"@1598714432.317000000","description":"DNS resolution failed for service: stt.tinkoff.ru:443","file":"src/core/ext/filters/client_channel/resolver/dns/native/dns_resolver.cc","file_line":204,"grpc_status":14,"referenced_errors":[{"created":"@1598714432.316000000","description":"OS Error","file":"src/core/lib/iomgr/resolve_address_windows.cc","file_line":95,"os_error":"No such host is known.\r\n","syscall":"getaddrinfo","wsa_error":11001}]}]}"
+>|
+2020-08-29|18:20:32.475384|<_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "DNS resolution failed for service: stt.tinkoff.ru:443"
+	debug_error_string = "{"created":"@1598714432.317000000","description":"Resolver transient failure","file":"src/core/ext/filters/client_channel/resolving_lb_policy.cc","file_line":214,"referenced_errors":[{"created":"@1598714432.317000000","description":"DNS resolution failed for service: stt.tinkoff.ru:443","file":"src/core/ext/filters/client_channel/resolver/dns/native/dns_resolver.cc","file_line":204,"grpc_status":14,"referenced_errors":[{"created":"@1598714432.316000000","description":"OS Error","file":"src/core/lib/iomgr/resolve_address_windows.cc","file_line":95,"os_error":"No such host is known.\r\n","syscall":"getaddrinfo","wsa_error":11001}]}]}"
+>|
+2020-08-29|18:20:32.505203|<_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "DNS resolution failed for service: stt.tinkoff.ru:443"
+	debug_error_string = "{"created":"@1598714432.317000000","description":"Resolver transient failure","file":"src/core/ext/filters/client_channel/resolving_lb_policy.cc","file_line":214,"referenced_errors":[{"created":"@1598714432.317000000","description":"DNS resolution failed for service: stt.tinkoff.ru:443","file":"src/core/ext/filters/client_channel/resolver/dns/native/dns_resolver.cc","file_line":204,"grpc_status":14,"referenced_errors":[{"created":"@1598714432.316000000","description":"OS Error","file":"src/core/lib/iomgr/resolve_address_windows.cc","file_line":95,"os_error":"No such host is known.\r\n","syscall":"getaddrinfo","wsa_error":11001}]}]}"
+>|
+2020-08-29|18:20:32.517196|<_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "DNS resolution failed for service: stt.tinkoff.ru:443"
+	debug_error_string = "{"created":"@1598714432.317000000","description":"Resolver transient failure","file":"src/core/ext/filters/client_channel/resolving_lb_policy.cc","file_line":214,"referenced_errors":[{"created":"@1598714432.317000000","description":"DNS resolution failed for service: stt.tinkoff.ru:443","file":"src/core/ext/filters/client_channel/resolver/dns/native/dns_resolver.cc","file_line":204,"grpc_status":14,"referenced_errors":[{"created":"@1598714432.316000000","description":"OS Error","file":"src/core/lib/iomgr/resolve_address_windows.cc","file_line":95,"os_error":"No such host is known.\r\n","syscall":"getaddrinfo","wsa_error":11001}]}]}"
+>|
+2020-08-29|18:20:42.919989|<_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "DNS resolution failed for service: stt.tinkoff.ru:443"
+	debug_error_string = "{"created":"@1598714442.920000000","description":"Resolver transient failure","file":"src/core/ext/filters/client_channel/resolving_lb_policy.cc","file_line":214,"referenced_errors":[{"created":"@1598714442.920000000","description":"DNS resolution failed for service: stt.tinkoff.ru:443","file":"src/core/ext/filters/client_channel/resolver/dns/native/dns_resolver.cc","file_line":204,"grpc_status":14,"referenced_errors":[{"created":"@1598714442.919000000","description":"OS Error","file":"src/core/lib/iomgr/resolve_address_windows.cc","file_line":95,"os_error":"No such host is known.\r\n","syscall":"getaddrinfo","wsa_error":11001}]}]}"
+>|
+2020-08-29|18:20:42.926014|<_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "DNS resolution failed for service: stt.tinkoff.ru:443"
+	debug_error_string = "{"created":"@1598714442.920000000","description":"Resolver transient failure","file":"src/core/ext/filters/client_channel/resolving_lb_policy.cc","file_line":214,"referenced_errors":[{"created":"@1598714442.920000000","description":"DNS resolution failed for service: stt.tinkoff.ru:443","file":"src/core/ext/filters/client_channel/resolver/dns/native/dns_resolver.cc","file_line":204,"grpc_status":14,"referenced_errors":[{"created":"@1598714442.919000000","description":"OS Error","file":"src/core/lib/iomgr/resolve_address_windows.cc","file_line":95,"os_error":"No such host is known.\r\n","syscall":"getaddrinfo","wsa_error":11001}]}]}"
+>|
+2020-08-29|18:20:42.932993|<_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "DNS resolution failed for service: stt.tinkoff.ru:443"
+	debug_error_string = "{"created":"@1598714442.920000000","description":"Resolver transient failure","file":"src/core/ext/filters/client_channel/resolving_lb_policy.cc","file_line":214,"referenced_errors":[{"created":"@1598714442.920000000","description":"DNS resolution failed for service: stt.tinkoff.ru:443","file":"src/core/ext/filters/client_channel/resolver/dns/native/dns_resolver.cc","file_line":204,"grpc_status":14,"referenced_errors":[{"created":"@1598714442.919000000","description":"OS Error","file":"src/core/lib/iomgr/resolve_address_windows.cc","file_line":95,"os_error":"No such host is known.\r\n","syscall":"getaddrinfo","wsa_error":11001}]}]}"
+>|
+2020-08-29|18:20:42.938980|<_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "DNS resolution failed for service: stt.tinkoff.ru:443"
+	debug_error_string = "{"created":"@1598714442.920000000","description":"Resolver transient failure","file":"src/core/ext/filters/client_channel/resolving_lb_policy.cc","file_line":214,"referenced_errors":[{"created":"@1598714442.920000000","description":"DNS resolution failed for service: stt.tinkoff.ru:443","file":"src/core/ext/filters/client_channel/resolver/dns/native/dns_resolver.cc","file_line":204,"grpc_status":14,"referenced_errors":[{"created":"@1598714442.919000000","description":"OS Error","file":"src/core/lib/iomgr/resolve_address_windows.cc","file_line":95,"os_error":"No such host is known.\r\n","syscall":"getaddrinfo","wsa_error":11001}]}]}"
+>|
+2020-08-29|18:37:29.986257|unsupported format character 'd' (0x64) at index %Id|
+2020-08-29|18:37:30.936063|unsupported format character 'd' (0x64) at index %Id|
+2020-08-29|18:37:32.141645|unsupported format character 'd' (0x64) at index %Id|
+2020-08-29|18:37:33.307260|unsupported format character 'd' (0x64) at index %Id|
+2020-08-29|18:37:57.304224|unsupported format character 'd' (0x64) at index %Id|
+2020-08-29|18:39:06.621169|unsupported format character 'd' (0x64) at index %Id|
+2020-08-29|18:39:07.455492|unsupported format character 'd' (0x64) at index %Id|
+2020-08-29|18:39:08.496221|unsupported format character 'd' (0x64) at index %Id|
+2020-08-29|18:39:09.566256|unsupported format character 'd' (0x64) at index %Id|
+2020-08-29|18:39:20.882152|unsupported format character 'd' (0x64) at index %Id|
+2020-08-29|18:44:37.481113|unsupported format character 'd' (0x64) at index %Id|
+2020-08-29|19:00:55.642235|unsupported format character 'd' (0x64) at index %Id|
+2020-08-29|19:00:56.416820|unsupported format character 'd' (0x64) at index %Id|
+2020-08-29|19:00:57.407048|unsupported format character 'd' (0x64) at index %Id|
+2020-08-29|19:00:58.278397|unsupported format character 'd' (0x64) at index %Id|
+2020-08-29|19:50:06.376947|list index out of range|
+2020-08-29|19:50:06.948900|list index out of range|
+2020-08-29|21:47:39.145157|'NoneType' object is not subscriptable|
+2020-08-29|21:47:39.744554|'NoneType' object is not subscriptable|
+2020-08-29|21:47:40.567817|'NoneType' object is not subscriptable|
+2020-08-29|21:47:41.257997|'NoneType' object is not subscriptable|
+2020-08-29|21:48:58.803859|'NoneType' object is not subscriptable|
+2020-08-29|21:48:59.412231|'NoneType' object is not subscriptable|
+2020-08-29|21:49:00.156240|'NoneType' object is not subscriptable|
+2020-08-29|21:49:00.826447|'NoneType' object is not subscriptable|
+2020-08-29|21:50:11.196217|'NoneType' object is not subscriptable|
+2020-08-29|21:52:02.854482|'NoneType' object is not subscriptable|
+2020-08-29|21:52:03.487874|'NoneType' object is not subscriptable|
+2020-08-29|21:52:04.371062|'NoneType' object is not subscriptable|
+2020-08-29|21:52:05.048349|'NoneType' object is not subscriptable|
+2020-08-29|22:21:41.420056|[WinError 2] Не удается найти указанный файл: 'D:\\Desk\\Tincoff_Voicekit_Client\\1.wav'|
+2020-08-29|22:21:42.024438|[WinError 2] Не удается найти указанный файл: 'D:\\Desk\\Tincoff_Voicekit_Client\\2.wav'|
+2020-08-29|22:21:42.777905|[WinError 2] Не удается найти указанный файл: 'D:\\Desk\\Tincoff_Voicekit_Client\\3.wav'|
+2020-08-29|22:21:43.592757|[WinError 2] Не удается найти указанный файл: 'D:\\Desk\\Tincoff_Voicekit_Client\\4.wav'|
+2020-08-29|22:24:35.572092|[WinError 2] Не удается найти указанный файл: 'D:/Desk/Tincoff_Voicekit_Client\\1.wav'|
+2020-08-29|22:24:36.143563|[WinError 2] Не удается найти указанный файл: 'D:/Desk/Tincoff_Voicekit_Client\\2.wav'|
+2020-08-29|22:24:37.055125|[WinError 2] Не удается найти указанный файл: 'D:/Desk/Tincoff_Voicekit_Client\\3.wav'|
+2020-08-29|22:24:37.745320|[WinError 2] Не удается найти указанный файл: 'D:/Desk/Tincoff_Voicekit_Client\\4.wav'|
+2020-08-29|22:32:00.705084|[WinError 2] Не удается найти указанный файл: 'D:\\Desk\\Tincoff_Voicekit_Client\\1.wav'|
+2020-08-29|22:32:01.288555|[WinError 2] Не удается найти указанный файл: 'D:\\Desk\\Tincoff_Voicekit_Client\\2.wav'|
+2020-08-29|22:32:02.029327|[WinError 2] Не удается найти указанный файл: 'D:\\Desk\\Tincoff_Voicekit_Client\\3.wav'|
+2020-08-29|22:32:02.704521|[WinError 2] Не удается найти указанный файл: 'D:\\Desk\\Tincoff_Voicekit_Client\\4.wav'|
+2020-08-29|22:32:47.928901|[WinError 2] Не удается найти указанный файл: 'D:/Desk/Tincoff_Voicekit_Client1.wav'|
+2020-08-29|22:32:48.523140|[WinError 2] Не удается найти указанный файл: 'D:/Desk/Tincoff_Voicekit_Client2.wav'|
+2020-08-29|22:32:49.253418|[WinError 2] Не удается найти указанный файл: 'D:/Desk/Tincoff_Voicekit_Client3.wav'|
+2020-08-29|22:32:49.901688|[WinError 2] Не удается найти указанный файл: 'D:/Desk/Tincoff_Voicekit_Client4.wav'|
+2020-08-29|22:33:18.180718|[WinError 2] Не удается найти указанный файл: 'D:/Desk/Tincoff_Voicekit_Client/1.wav'|
+2020-08-29|22:33:18.778120|[WinError 2] Не удается найти указанный файл: 'D:/Desk/Tincoff_Voicekit_Client/2.wav'|
+2020-08-29|22:33:19.510702|[WinError 2] Не удается найти указанный файл: 'D:/Desk/Tincoff_Voicekit_Client/3.wav'|
+2020-08-29|22:33:20.161831|[WinError 2] Не удается найти указанный файл: 'D:/Desk/Tincoff_Voicekit_Client/4.wav'|
+2020-08-29|22:38:07.680090|[WinError 123] Синтаксическая ошибка в имени файла, имени папки или метке тома: 'D:/Desk/Tincoff_Voicekit_Client/D:/Desk/Tincoff_Voicekit_Client/media/1.wav/1.wav'|
+2020-08-29|22:38:08.271198|[WinError 123] Синтаксическая ошибка в имени файла, имени папки или метке тома: 'D:/Desk/Tincoff_Voicekit_Client/D:/Desk/Tincoff_Voicekit_Client/media/2.wav/2.wav'|
+2020-08-29|22:38:09.008225|[WinError 123] Синтаксическая ошибка в имени файла, имени папки или метке тома: 'D:/Desk/Tincoff_Voicekit_Client/D:/Desk/Tincoff_Voicekit_Client/media/3.wav/3.wav'|
+2020-08-29|22:38:09.732390|[WinError 123] Синтаксическая ошибка в имени файла, имени папки или метке тома: 'D:/Desk/Tincoff_Voicekit_Client/D:/Desk/Tincoff_Voicekit_Client/media/4.wav/4.wav'|
+2020-08-29|22:39:15.224857|[WinError 123] Синтаксическая ошибка в имени файла, имени папки или метке тома: 'D:/Desk/Tincoff_Voicekit_Client/D:/Desk/Tincoff_Voicekit_Client/media/1.wav/1.wav'|
+2020-08-29|22:39:56.243026|[WinError 123] Синтаксическая ошибка в имени файла, имени папки или метке тома: 'D:/Desk/Tincoff_Voicekit_Client/D:/Desk/Tincoff_Voicekit_Client/media/1.wav/1.wav'|
+2020-08-29|22:39:56.959673|[WinError 123] Синтаксическая ошибка в имени файла, имени папки или метке тома: 'D:/Desk/Tincoff_Voicekit_Client/D:/Desk/Tincoff_Voicekit_Client/media/2.wav/2.wav'|
+2020-08-29|22:39:57.761106|[WinError 123] Синтаксическая ошибка в имени файла, имени папки или метке тома: 'D:/Desk/Tincoff_Voicekit_Client/D:/Desk/Tincoff_Voicekit_Client/media/3.wav/3.wav'|
+2020-08-29|22:39:58.554637|[WinError 123] Синтаксическая ошибка в имени файла, имени папки или метке тома: 'D:/Desk/Tincoff_Voicekit_Client/D:/Desk/Tincoff_Voicekit_Client/media/4.wav/4.wav'|
+2020-08-29|23:05:23.799469|Incorrect source parameters: must be path to file or io.BufferedReader|
+2020-08-29|23:05:23.812434|Incorrect source parameters: must be path to file or io.BufferedReader|
+2020-08-29|23:05:23.814429|Incorrect source parameters: must be path to file or io.BufferedReader|
+2020-08-29|23:05:23.816424|Incorrect source parameters: must be path to file or io.BufferedReader|
+2020-08-30|02:10:02.968316|Incorrect source parameters: must be path to file or io.BufferedReader|
+2020-08-30|02:10:02.984274|Incorrect source parameters: must be path to file or io.BufferedReader|
+2020-08-30|02:10:02.985271|Incorrect source parameters: must be path to file or io.BufferedReader|
+2020-08-30|02:10:02.986268|Incorrect source parameters: must be path to file or io.BufferedReader|
+2020-08-30|02:10:10.077999|Incorrect source parameters: must be path to file or io.BufferedReader|
+2020-08-30|02:10:10.078996|Incorrect source parameters: must be path to file or io.BufferedReader|
+2020-08-30|02:10:10.079994|Incorrect source parameters: must be path to file or io.BufferedReader|
+2020-08-30|02:10:10.081989|Incorrect source parameters: must be path to file or io.BufferedReader|
+2020-08-30|02:11:17.908360|ОШИБКА:  INSERT содержит больше выражений, чем целевых столбцов
+LINE 1: ...ствует автоответчик оставьте сообщение после сигнала', 1, 1)
+                                                                  ^
+|
+2020-08-30|02:11:18.541467|ОШИБКА:  INSERT содержит больше выражений, чем целевых столбцов
+LINE 1: ...1, '+79034654644', '00:00:01.200000', 'алло говорите', 2, 1)
+                                                                  ^
+|
+2020-08-30|02:11:19.357217|ОШИБКА:  INSERT содержит больше выражений, чем целевых столбцов
+LINE 1: ...745304', '00:00:01.800000', 'ну да удобно его слушаю', 2, 1)
+                                                                  ^
+|
+2020-08-30|02:11:20.086941|ОШИБКА:  INSERT содержит больше выражений, чем целевых столбцов
+LINE 1: ...0:00:02.100000', 'нет я сейчас на работе до свидания', 1, 1)
+                                                                  ^
+|
